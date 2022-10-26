@@ -1,5 +1,8 @@
 # PR Validation Action
 
+**Note that we aren't on an enterprise plan for GitHub so we can't use a private repo for this action.**
+**This repo is public, be aware of what IP is commited in here.** 
+
 This is a GitHub action that does two things when a PR is opened. 
 
 1. It validates that a sentinel value is not found in the PR comments.
